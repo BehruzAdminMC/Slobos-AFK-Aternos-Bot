@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Behruz_Admin_MC_SMP.exaroton.me:43004",
-    "port": 27586,
-    "version": "",
+    "port": 43004,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "949288988"
     },
     "anti-afk": {
       "enabled": true,
