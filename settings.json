@@ -1,13 +1,13 @@
 {
-  "name": "AFK",
+  "name": "Hello_World",
   "bot-account": {
     "username": "AFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Behruz_Admin_MC_SMP.exaroton.me:43004",
-    "port": 43004,
+    "ip": "TeamSmpZone.aternos.me",
+    "port": 35154,
     "version": "1.21.11",
     "try-creative": false
   },
