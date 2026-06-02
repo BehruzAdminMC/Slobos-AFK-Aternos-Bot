@@ -1,9 +1,9 @@
 {
   "name": "Hello_World",
   "bot-account": {
-    "username": "AFK",
+    "username": "",
     "password": "",
-    "type": "offline"
+    "type": ""
   },
   "server": {
     "ip": "TeamSmpZone.aternos.me",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "949288988"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "behruz_admin_mc_01_42312",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
